@@ -1,0 +1,30 @@
+<!-- Tuesday 15 March from 1PM to 2 PM-->
+
+<measurements>
+    <singlelink link="82549437#2" start="0" end="3600" value="765" stddev="8" type="COUNT_VEH"/> <!--2.4 2.3 6 1-->
+    <singlelink link="82549436" start="0" end="3600" value="114" stddev="8" type="COUNT_VEH"/> <!--0.127 2.4 6 1-->
+    <singlelink link="-479678379" start="0" end="3600" value="142" stddev="8" type="COUNT_VEH"/> <!--2.4 0.127 2 1-->
+    <singlelink link="-35882642#1" start="0" end="3600" value="28" stddev="8" type="COUNT_VEH"/> <!--0.127 2.4 8 1-->
+    <singlelink link="96199140#3" start="0" end="3600" value="768" stddev="8" type="COUNT_VEH"/> <!--2.95 2.4 6 1-->
+    <singlelink link="96199140#0" start="0" end="3600" value="894" stddev="8" type="COUNT_VEH"/> <!--2.5 2.95 6 1-->
+    <singlelink link="35204667" start="0" end="3600" value="149" stddev="8" type="COUNT_VEH"/> <!--0.127 2.5 4 1-->
+    <singlelink link="83202926" start="0" end="3600" value="1032" stddev="8" type="COUNT_VEH"/> <!--2.6 2.5 6 1-->
+    <singlelink link="945119924#1" start="0" end="3600" value="165" stddev="8" type="COUNT_VEH"/> <!--0.127 2.6 1 1-->
+    <singlelink link="23837911#1-Ad" start="0" end="3600" value="658" stddev="8" type="COUNT_VEH"/> <!--2.6 4.47 4 1-->
+    <singlelink link="945850934#2" start="0" end="3600" value="1241" stddev="8" type="COUNT_VEH"/> <!--2.6 2.10 6 1-->
+    <singlelink link="23288931#0" start="0" end="3600" value="1305" stddev="8" type="COUNT_VEH"/> <!--4.47 2.6 8 1-->
+    <singlelink link="23290103" start="0" end="3600" value="52" stddev="8" type="COUNT_VEH"/> <!--2.9 2.20 6 1-->
+    <singlelink link="23290288#1" start="0" end="3600" value="38" stddev="8" type="COUNT_VEH"/> <!--0.127 2.9 6 1-->
+    <singlelink link="163787530#6" start="0" end="3600" value="1058" stddev="8" type="COUNT_VEH"/> <!--2.9 2.10 8 1-->
+    <singlelink link="23290069#0" start="0" end="3600" value="38" stddev="8" type="COUNT_VEH"/> <!--0.127 2.20 6 1-->
+    <singlelink link="23288944#0" start="0" end="3600" value="1249" stddev="8" type="COUNT_VEH"/> <!--2.10 2.6 6 1-->
+    <singlelink link="23288945#0" start="0" end="3600" value="1011" stddev="8" type="COUNT_VEH"/> <!--2.10 2.21 6 1-->
+    <singlelink link="23271744" start="0" end="3600" value="261" stddev="8" type="COUNT_VEH"/> <!--2.10 1.11 4 1-->
+    <singlelink link="-231109180" start="0" end="3600" value="92" stddev="8" type="COUNT_VEH"/> <!--0.127 2.10 8 1-->
+    <singlelink link="-939967914#1" start="0" end="3600" value="558" stddev="8" type="COUNT_VEH"/> <!--2.8 0.127 8 1-->
+    <singlelink link="-23276777#4" start="0" end="3600" value="123" stddev="8" type="COUNT_VEH"/> <!--2.8 2.3 2 1-->
+    <singlelink link="23276777#1" start="0" end="3600" value="192" stddev="8" type="COUNT_VEH"/> <!--2.3 2.8 6 1-->
+    <singlelink link="-96199157#1" start="0" end="3600" value="253" stddev="8" type="COUNT_VEH"/> <!--0.127 2.73 6 1-->
+    <singlelink link="-914176829#1" start="0" end="3600" value="317" stddev="8" type="COUNT_VEH"/> <!--0.127 2.73 4 1-->
+    <singlelink link="251471066#2" start="0" end="3600" value="299" stddev="8" type="COUNT_VEH"/> <!--0.127 2.73 2 1-->
+</measurements>
